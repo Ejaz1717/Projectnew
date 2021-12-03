@@ -24,7 +24,11 @@ public class SampleSuite {
 	public void tc4() {
 		Assert.assertTrue(false);
 		System.out.println("test 4");
+	
 		
+	}
+	public void tc5() {
+		System.out.println("test 5");
 	}
 	@Test
 	public void tc6() {
