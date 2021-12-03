@@ -27,9 +27,12 @@ public class SampleSuite {
 	
 		
 	}
-	@Test
 	public void tc5() {
 		System.out.println("test 5");
+	}
+	@Test
+	public void tc6() {
+		System.out.println("test 6");
 	}
 	
 
